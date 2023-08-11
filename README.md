@@ -1,4 +1,4 @@
-# sample application to run in docker
+# sample docker application
 
 # Building
 Build and run:
